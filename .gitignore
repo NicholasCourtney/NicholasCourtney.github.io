@@ -1,0 +1,4 @@
+*.swp
+*.swo
+.jekyll-cache/*
+_site/*
